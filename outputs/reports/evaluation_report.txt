@@ -1,0 +1,16 @@
+HASIL EVALUASI
+
+Accuracy  : 0.7981
+Precision : 0.8011
+Recall    : 0.7981
+F1 Score  : 0.7984
+
+              precision    recall  f1-score   support
+
+     recycle       0.87      0.84      0.85       217
+      reduce       0.72      0.85      0.78        54
+       reuse       0.59      0.57      0.58        51
+
+    accuracy                           0.80       322
+   macro avg       0.73      0.75      0.74       322
+weighted avg       0.80      0.80      0.80       322
